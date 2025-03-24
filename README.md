@@ -1,4 +1,5 @@
-![MasterHead](https://camo.githubusercontent.com/b0d12c640e969f1cff1c70bb51c8e1eedfee5f546b1b061c9d1a9a91e70d15c3/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)
+
+[![MasterHead](https://camo.githubusercontent.com/b0d12c640e969f1cff1c70bb51c8e1eedfee5f546b1b061c9d1a9a91e70d15c3/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)
 <h1 align="center">Hi 👋, I'm Jason Jebaraj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400px" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?t=st=1740201851~exp=1740205451~hmac=8174d3dbbd2fbf7bb2529892db085b7f4bd2ffa85197790d4a5b3c3a810691e6&w=900">
@@ -7,18 +8,17 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [#######](#######)
+- 👨‍💻 All of my projects are available at [https://jasonjebaraj.github.io/folio/](https://jasonjebaraj.github.io/folio/)
 
 - 💬 Ask me about **front-end**
 
 - 📫 How to reach me **jasonjebaraj136@gmail.com**
 
-- 📄 Know about my experiences [#######](#######)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jason jebaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jason jebaraj" height="30" width="40" /></a>
-<a href="https://instagram.com/jason jebaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jason jebaraj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jason-jebaraj-990a31336/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jason jebaraj" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jasonjebaraj136/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jason jebaraj" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/hard_zone_86" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hard_zone_86" height="30" width="40" /></a>
 </p>
 
